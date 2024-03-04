@@ -1,0 +1,2 @@
+Hello, this is first Odin Project commit. I intend to build amazing projects through odin project programme.
+This Project is about Odin Recipes, where you can order lovely meals online for your pelasure.
